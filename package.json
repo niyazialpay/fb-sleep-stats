@@ -26,7 +26,7 @@
     "cookie-parser": "1.4.1",
     "express": "4.13.4",
     "fb-sleep": "2.2.0",
-    "lodash": "4.5.1",
+    "lodash": "4.17.21",
     "lowdb": "0.12.4",
     "moment": "2.11.2",
     "react": "0.14.7",
